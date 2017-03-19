@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I really have not learned any new skills. I learned long ago that coding is the same regardless of the language, it is just a matter of syntax and structure differences. I have was plesantly surprised how easy it was to get back into the "headspace" for writing code, being able to "see" the results of the code I'm inputting even before refreshing the browser. The hard part thus far has been trying to determine what is still within the realm of HTML and what has been exported to CSS (e.g. elimination of the FONT tag in HTML). And I have absolutely used the problem solving strategies noted before. I use them every day, not just when sitting behind a keyboard. The same mindset can be applied to nearly all aspects in life.
